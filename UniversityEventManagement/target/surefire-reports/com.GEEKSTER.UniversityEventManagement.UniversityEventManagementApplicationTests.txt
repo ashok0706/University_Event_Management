@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.GEEKSTER.UniversityEventManagement.UniversityEventManagementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.962 s - in com.GEEKSTER.UniversityEventManagement.UniversityEventManagementApplicationTests
